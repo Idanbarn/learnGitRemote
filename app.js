@@ -1,3 +1,1 @@
-function myf(params) { 
-mama
-}
+lala
